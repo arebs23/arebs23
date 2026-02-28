@@ -10,7 +10,7 @@ I build multimodal systems that convert visual and language inputs into structur
 ## 🚀 Featured Work
 
 ### My work was featured by Wallenbergstiftelserna
-🎥 [Demo Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://www.youtube.com/watch?v=sE0j07E2xRs&t=313s))](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+🎥 [Demo Video]()]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://www.youtube.com/watch?v=sE0j07E2xRs&t=313s))
 
 
 ---
