@@ -11,8 +11,8 @@ I build multimodal systems that convert visual and language inputs into structur
 
 I’m honored that my work was featured by **Wallenbergstiftelserna** — one of Sweden’s leading research foundations supporting science and technology innovation.
 
-🎥 **Watch the demo:**  
-[![Watch the video](https://img.youtube.com/vi/sE0j07E2xRs/0.jpg)](https://www.youtube.com/watch?v=sE0j07E2xRs&t=313s)
+
+🎥 **[Watch the Demo](https://www.youtube.com/watch?v=sE0j07E2xRs&t=313s)**
 ---
 
 ## 🔬 Research Interest
